@@ -5,7 +5,7 @@ Marketplace Vendor UPS Shipping Extension is a plugin of Magebay Multi Vendor Ex
 
 See more [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
-## Top features of Marketplace Vendor UPS Shipping Extension for Magento 2
+## Top features of Marketplace Vendor UPS Shipping Management Extension for Magento 2
 - Allow Admin set enable/disable UPS Shipping method in backend.
 - Admin can change UPS shipping method name that will be display on checkout page
 - Allow Vendors set their UPS details to manage shipment of their orders.
